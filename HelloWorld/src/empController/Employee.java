@@ -10,8 +10,6 @@ public class Employee {
 	public String getName() {
 		return "Thirumalesh";
 	}
-	public String getDescription() {
-		return "kakarakaya";
-	}
+	
 
 }
