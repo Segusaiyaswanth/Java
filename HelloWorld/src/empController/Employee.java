@@ -6,5 +6,9 @@ public class Employee {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public String getName() {
+		return "Thirumalesh";
+	}
 
 }
