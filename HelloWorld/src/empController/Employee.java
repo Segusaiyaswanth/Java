@@ -13,8 +13,5 @@ public class Employee {
 	public String getDescription() {
 		return "kakarakaya";
 	}
-	public void Hello() {
-		System.out.println("hello thiru");
-	}
 
 }
