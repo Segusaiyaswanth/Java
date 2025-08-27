@@ -17,10 +17,6 @@ public class Employee {
 	public void Hello() {
 		System.out.println("hello thiru");
 	}
-	
-	public String getName() {
-		return "Thirumalesh";
-	}
 
 }
 
